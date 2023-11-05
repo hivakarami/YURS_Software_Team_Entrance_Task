@@ -1,0 +1,33 @@
+[4.146s] Invoking command in '/home/hiva/ros2_ws/src/my_robot_controller': PYTHONPATH=/home/hiva/ros2_ws/build/my_robot_controller/prefix_override:/home/hiva/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/hiva/ros2_ws/build/my_robot_controller/build install --record /home/hiva/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed
+[5.762s] running egg_info
+[5.764s] creating ../../build/my_robot_controller/my_robot_controller.egg-info
+[5.765s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[5.766s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[5.767s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[5.768s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[5.769s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[5.770s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[5.805s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[5.809s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[5.810s] running build
+[5.811s] running build_py
+[5.811s] creating /home/hiva/ros2_ws/build/my_robot_controller/build
+[5.812s] creating /home/hiva/ros2_ws/build/my_robot_controller/build/lib
+[5.813s] creating /home/hiva/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[5.813s] copying my_robot_controller/__init__.py -> /home/hiva/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[5.813s] running install
+[5.815s] running install_lib
+[5.818s] creating /home/hiva/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[5.819s] copying /home/hiva/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /home/hiva/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[5.822s] byte-compiling /home/hiva/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__init__.py to __init__.cpython-310.pyc
+[5.824s] running install_data
+[5.826s] creating /home/hiva/ros2_ws/install/my_robot_controller/share/ament_index
+[5.827s] creating /home/hiva/ros2_ws/install/my_robot_controller/share/ament_index/resource_index
+[5.828s] creating /home/hiva/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[5.829s] copying resource/my_robot_controller -> /home/hiva/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[5.829s] copying package.xml -> /home/hiva/ros2_ws/install/my_robot_controller/share/my_robot_controller
+[5.830s] running install_egg_info
+[5.838s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/hiva/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[5.847s] running install_scripts
+[5.944s] writing list of installed files to '/home/hiva/ros2_ws/build/my_robot_controller/install.log'
+[6.075s] Invoked command in '/home/hiva/ros2_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/hiva/ros2_ws/build/my_robot_controller/prefix_override:/home/hiva/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/hiva/ros2_ws/build/my_robot_controller/build install --record /home/hiva/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed
